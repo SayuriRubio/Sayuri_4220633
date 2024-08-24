@@ -1,2 +1,2 @@
-# Sayuri_4220633
+# Uso de GIT
 tarea 1
