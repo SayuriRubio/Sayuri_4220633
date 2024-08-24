@@ -1,2 +1,2 @@
-# Uso de GIT
-tarea 1
+# Descargar tu nombre 
+ Sistemas de informacion. tarea 1
